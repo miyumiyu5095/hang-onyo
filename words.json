@@ -1,0 +1,2002 @@
+[
+  {
+    "word": "abolish",
+    "hint": "to officially end a law or system"
+  },
+  {
+    "word": "abrupt",
+    "hint": "sudden and unexpected"
+  },
+  {
+    "word": "absurd",
+    "hint": "so unreasonable it's almost funny"
+  },
+  {
+    "word": "accelerate",
+    "hint": "to go faster or make something happen more quickly"
+  },
+  {
+    "word": "acclaim",
+    "hint": "public praise and approval"
+  },
+  {
+    "word": "acknowledge",
+    "hint": "to admit or recognize that something is true"
+  },
+  {
+    "word": "acrimony",
+    "hint": "bitterness or ill feeling between people"
+  },
+  {
+    "word": "adapt",
+    "hint": "to change in order to deal with a new situation"
+  },
+  {
+    "word": "adequate",
+    "hint": "just enough but not more than enough"
+  },
+  {
+    "word": "adhere",
+    "hint": "to stick to a rule or belief"
+  },
+  {
+    "word": "adjacent",
+    "hint": "next to or very near something else"
+  },
+  {
+    "word": "adversary",
+    "hint": "an enemy or opponent"
+  },
+  {
+    "word": "adversity",
+    "hint": "a difficult or unpleasant situation"
+  },
+  {
+    "word": "advocate",
+    "hint": "to publicly support or recommend something"
+  },
+  {
+    "word": "affectation",
+    "hint": "behavior that is not natural and is meant to impress"
+  },
+  {
+    "word": "affirm",
+    "hint": "to state that something is true with confidence"
+  },
+  {
+    "word": "aftermath",
+    "hint": "the period of time after a bad event"
+  },
+  {
+    "word": "aggravate",
+    "hint": "to make a problem worse"
+  },
+  {
+    "word": "aggression",
+    "hint": "violent or hostile behavior"
+  },
+  {
+    "word": "agonize",
+    "hint": "to spend a long time worrying about a decision"
+  },
+  {
+    "word": "alienate",
+    "hint": "to make someone feel that they do not belong"
+  },
+  {
+    "word": "allegiance",
+    "hint": "loyalty to a person, group, or belief"
+  },
+  {
+    "word": "alleviate",
+    "hint": "to make pain or a problem less severe"
+  },
+  {
+    "word": "allocate",
+    "hint": "to give something to someone for a specific purpose"
+  },
+  {
+    "word": "allude",
+    "hint": "to mention something indirectly"
+  },
+  {
+    "word": "altercation",
+    "hint": "a noisy argument or disagreement"
+  },
+  {
+    "word": "ambiguity",
+    "hint": "when something has more than one possible meaning"
+  },
+  {
+    "word": "ambiguous",
+    "hint": "not clear and can be understood in more than one way"
+  },
+  {
+    "word": "ambivalence",
+    "hint": "having mixed feelings about something"
+  },
+  {
+    "word": "ambivalent",
+    "hint": "having two opposing feelings at the same time"
+  },
+  {
+    "word": "ambush",
+    "hint": "a sudden surprise attack from a hidden place"
+  },
+  {
+    "word": "anarchy",
+    "hint": "a situation with no rules or control"
+  },
+  {
+    "word": "anguish",
+    "hint": "severe emotional or physical pain"
+  },
+  {
+    "word": "antagonism",
+    "hint": "active opposition or hostility toward someone"
+  },
+  {
+    "word": "antagonist",
+    "hint": "the main character who opposes the hero in a story"
+  },
+  {
+    "word": "antagonize",
+    "hint": "to deliberately make someone angry or hostile"
+  },
+  {
+    "word": "anticipate",
+    "hint": "to expect something and prepare for it"
+  },
+  {
+    "word": "appease",
+    "hint": "to make someone less angry by giving them what they want"
+  },
+  {
+    "word": "apprehend",
+    "hint": "to arrest someone, or to understand something"
+  },
+  {
+    "word": "arbitrary",
+    "hint": "based on chance or personal preference rather than rules"
+  },
+  {
+    "word": "archetype",
+    "hint": "a very typical example of a certain kind of person or thing"
+  },
+  {
+    "word": "arduous",
+    "hint": "involving a lot of effort and difficulty"
+  },
+  {
+    "word": "arrogant",
+    "hint": "believing you are better than everyone else"
+  },
+  {
+    "word": "articulate",
+    "hint": "able to express ideas clearly and effectively"
+  },
+  {
+    "word": "ascend",
+    "hint": "to go up or rise to a higher position"
+  },
+  {
+    "word": "aspire",
+    "hint": "to want to achieve something great"
+  },
+  {
+    "word": "assert",
+    "hint": "to state something confidently and forcefully"
+  },
+  {
+    "word": "assume",
+    "hint": "to believe something is true without proof"
+  },
+  {
+    "word": "astonishing",
+    "hint": "extremely surprising or impressive"
+  },
+  {
+    "word": "atrocity",
+    "hint": "an extremely cruel or violent act"
+  },
+  {
+    "word": "audacious",
+    "hint": "willing to take risks in a bold way"
+  },
+  {
+    "word": "authenticate",
+    "hint": "to prove that something is genuine"
+  },
+  {
+    "word": "authenticity",
+    "hint": "the quality of being genuine and real"
+  },
+  {
+    "word": "authorize",
+    "hint": "to give official permission for something"
+  },
+  {
+    "word": "avenge",
+    "hint": "to punish someone who has done harm to you"
+  },
+  {
+    "word": "avert",
+    "hint": "to prevent something bad from happening"
+  },
+  {
+    "word": "banish",
+    "hint": "to send someone away as a punishment"
+  },
+  {
+    "word": "bargain",
+    "hint": "an agreement where both sides give and take something"
+  },
+  {
+    "word": "barricade",
+    "hint": "a barrier put up to block passage"
+  },
+  {
+    "word": "bemoan",
+    "hint": "to express sadness or regret about something"
+  },
+  {
+    "word": "betray",
+    "hint": "to be disloyal to someone who trusts you"
+  },
+  {
+    "word": "bewildered",
+    "hint": "completely confused and unable to understand"
+  },
+  {
+    "word": "bewitch",
+    "hint": "to have a magical or powerful effect on someone"
+  },
+  {
+    "word": "bittersweet",
+    "hint": "feeling both happy and sad at the same time"
+  },
+  {
+    "word": "bizarre",
+    "hint": "very strange or unusual"
+  },
+  {
+    "word": "blatant",
+    "hint": "obvious and done without shame"
+  },
+  {
+    "word": "bleak",
+    "hint": "cold, empty, and without hope"
+  },
+  {
+    "word": "blockade",
+    "hint": "blocking a place to prevent people from entering or leaving"
+  },
+  {
+    "word": "blunder",
+    "hint": "a serious and embarrassing mistake"
+  },
+  {
+    "word": "breakthrough",
+    "hint": "an important discovery or development"
+  },
+  {
+    "word": "brooding",
+    "hint": "thinking deeply about something in a troubled way"
+  },
+  {
+    "word": "brutally",
+    "hint": "in a very cruel and violent way"
+  },
+  {
+    "word": "callous",
+    "hint": "not caring about the feelings of others"
+  },
+  {
+    "word": "camouflage",
+    "hint": "to hide something by making it look like its surroundings"
+  },
+  {
+    "word": "capitulate",
+    "hint": "to stop resisting and accept defeat"
+  },
+  {
+    "word": "captivate",
+    "hint": "to attract and hold someone's complete attention"
+  },
+  {
+    "word": "catastrophe",
+    "hint": "a sudden disaster causing great damage"
+  },
+  {
+    "word": "catastrophic",
+    "hint": "causing sudden and very great damage"
+  },
+  {
+    "word": "catastrophize",
+    "hint": "to imagine that something is much worse than it really is"
+  },
+  {
+    "word": "catharsis",
+    "hint": "a release of strong emotions that brings relief"
+  },
+  {
+    "word": "cathartic",
+    "hint": "providing emotional relief and release"
+  },
+  {
+    "word": "chaotic",
+    "hint": "in a state of complete confusion and disorder"
+  },
+  {
+    "word": "charisma",
+    "hint": "a natural ability to attract and influence people"
+  },
+  {
+    "word": "choreograph",
+    "hint": "to plan and arrange the movements of a performance"
+  },
+  {
+    "word": "chronicle",
+    "hint": "to record events in the order they happened"
+  },
+  {
+    "word": "clandestine",
+    "hint": "done secretly and often against the law"
+  },
+  {
+    "word": "clarify",
+    "hint": "to make something easier to understand"
+  },
+  {
+    "word": "claustrophobic",
+    "hint": "feeling anxious in small or enclosed spaces"
+  },
+  {
+    "word": "climactic",
+    "hint": "relating to the most important or exciting moment"
+  },
+  {
+    "word": "coerce",
+    "hint": "to force someone to do something using threats"
+  },
+  {
+    "word": "coherent",
+    "hint": "logical and easy to understand"
+  },
+  {
+    "word": "coincide",
+    "hint": "to happen at the same time as something else"
+  },
+  {
+    "word": "collapse",
+    "hint": "to suddenly fall down or fail completely"
+  },
+  {
+    "word": "collateral",
+    "hint": "extra damage or harm caused as a side effect"
+  },
+  {
+    "word": "commemorate",
+    "hint": "to do something to remember an important past event"
+  },
+  {
+    "word": "compensate",
+    "hint": "to give something to make up for a loss"
+  },
+  {
+    "word": "competent",
+    "hint": "having the skills needed to do something well"
+  },
+  {
+    "word": "complicit",
+    "hint": "involved in a wrongdoing even if not directly responsible"
+  },
+  {
+    "word": "complicity",
+    "hint": "involvement in a crime or wrongdoing"
+  },
+  {
+    "word": "compulsive",
+    "hint": "unable to stop doing something even if you want to"
+  },
+  {
+    "word": "concealed",
+    "hint": "hidden from view"
+  },
+  {
+    "word": "conceive",
+    "hint": "to form an idea or plan in your mind"
+  },
+  {
+    "word": "condemn",
+    "hint": "to say strongly that something is wrong"
+  },
+  {
+    "word": "condescend",
+    "hint": "to talk to someone as if they are less intelligent than you"
+  },
+  {
+    "word": "confess",
+    "hint": "to admit that you did something wrong"
+  },
+  {
+    "word": "confiscate",
+    "hint": "to officially take something away from someone"
+  },
+  {
+    "word": "confront",
+    "hint": "to face someone in a direct and challenging way"
+  },
+  {
+    "word": "confrontation",
+    "hint": "a direct and serious disagreement or fight"
+  },
+  {
+    "word": "congenial",
+    "hint": "pleasant and friendly"
+  },
+  {
+    "word": "consequence",
+    "hint": "a result or effect of an action"
+  },
+  {
+    "word": "conspicuous",
+    "hint": "easy to notice and attracting attention"
+  },
+  {
+    "word": "conspire",
+    "hint": "to secretly plan with others to do something wrong"
+  },
+  {
+    "word": "contaminate",
+    "hint": "to make something impure or harmful"
+  },
+  {
+    "word": "contempt",
+    "hint": "a feeling that someone or something is worthless"
+  },
+  {
+    "word": "contradict",
+    "hint": "to say the opposite of what someone else said"
+  },
+  {
+    "word": "contrived",
+    "hint": "obviously planned and not natural"
+  },
+  {
+    "word": "controversial",
+    "hint": "causing disagreement or strong opinions"
+  },
+  {
+    "word": "convict",
+    "hint": "to find someone guilty of a crime"
+  },
+  {
+    "word": "convoluted",
+    "hint": "extremely complicated and difficult to follow"
+  },
+  {
+    "word": "cooperate",
+    "hint": "to work together toward a shared goal"
+  },
+  {
+    "word": "corruption",
+    "hint": "dishonest behavior by people in power"
+  },
+  {
+    "word": "covert",
+    "hint": "not openly shown or admitted"
+  },
+  {
+    "word": "cower",
+    "hint": "to crouch down in fear"
+  },
+  {
+    "word": "crave",
+    "hint": "to have a very strong desire for something"
+  },
+  {
+    "word": "credible",
+    "hint": "able to be believed and trusted"
+  },
+  {
+    "word": "critique",
+    "hint": "a detailed analysis and judgment of something"
+  },
+  {
+    "word": "culpable",
+    "hint": "responsible for wrongdoing"
+  },
+  {
+    "word": "cunning",
+    "hint": "clever at getting what you want, often by tricking others"
+  },
+  {
+    "word": "cynical",
+    "hint": "believing that people only act out of selfishness"
+  },
+  {
+    "word": "cynicism",
+    "hint": "a general distrust of people's honesty or motives"
+  },
+  {
+    "word": "daunting",
+    "hint": "making you feel nervous and less confident"
+  },
+  {
+    "word": "debilitating",
+    "hint": "making you weak and unable to function normally"
+  },
+  {
+    "word": "deceive",
+    "hint": "to make someone believe something that is not true"
+  },
+  {
+    "word": "deceiver",
+    "hint": "a person who tricks or misleads others"
+  },
+  {
+    "word": "decisive",
+    "hint": "able to make decisions quickly and confidently"
+  },
+  {
+    "word": "defiance",
+    "hint": "open resistance or disobedience"
+  },
+  {
+    "word": "defiant",
+    "hint": "openly refusing to obey or respect something"
+  },
+  {
+    "word": "deflect",
+    "hint": "to redirect something away from its target"
+  },
+  {
+    "word": "degrading",
+    "hint": "treating someone without dignity or respect"
+  },
+  {
+    "word": "deliberate",
+    "hint": "done on purpose and carefully planned"
+  },
+  {
+    "word": "delusion",
+    "hint": "a false belief that someone holds despite evidence against it"
+  },
+  {
+    "word": "delusional",
+    "hint": "believing things that are not real or true"
+  },
+  {
+    "word": "denounce",
+    "hint": "to publicly say that someone or something is wrong or bad"
+  },
+  {
+    "word": "depict",
+    "hint": "to show or describe something in a particular way"
+  },
+  {
+    "word": "deprive",
+    "hint": "to prevent someone from having something"
+  },
+  {
+    "word": "desensitize",
+    "hint": "to make someone less sensitive to something over time"
+  },
+  {
+    "word": "desolation",
+    "hint": "a feeling of complete emptiness and sadness"
+  },
+  {
+    "word": "desperate",
+    "hint": "feeling that you have no hope and will do anything"
+  },
+  {
+    "word": "desperation",
+    "hint": "a state of extreme hopelessness driving risky behavior"
+  },
+  {
+    "word": "destabilize",
+    "hint": "to make a situation less stable or secure"
+  },
+  {
+    "word": "deter",
+    "hint": "to make someone less likely to do something"
+  },
+  {
+    "word": "deteriorate",
+    "hint": "to become progressively worse over time"
+  },
+  {
+    "word": "deterioration",
+    "hint": "the process of getting worse over time"
+  },
+  {
+    "word": "devastate",
+    "hint": "to cause severe damage or destruction"
+  },
+  {
+    "word": "devastating",
+    "hint": "causing severe damage or extreme shock"
+  },
+  {
+    "word": "devious",
+    "hint": "using clever tricks to get what you want"
+  },
+  {
+    "word": "dignity",
+    "hint": "the quality of being calm and self-respecting"
+  },
+  {
+    "word": "dilemma",
+    "hint": "a situation where you must choose between difficult options"
+  },
+  {
+    "word": "discredit",
+    "hint": "to make people stop trusting or respecting someone"
+  },
+  {
+    "word": "disguise",
+    "hint": "to change your appearance so you are not recognized"
+  },
+  {
+    "word": "disillusioned",
+    "hint": "disappointed after finding out the truth about something"
+  },
+  {
+    "word": "disillusionment",
+    "hint": "the feeling of disappointment when beliefs are proven wrong"
+  },
+  {
+    "word": "disintegrate",
+    "hint": "to break into many small parts"
+  },
+  {
+    "word": "disintegration",
+    "hint": "the process of breaking apart completely"
+  },
+  {
+    "word": "dismantle",
+    "hint": "to take something apart in an organized way"
+  },
+  {
+    "word": "dismantled",
+    "hint": "taken apart piece by piece"
+  },
+  {
+    "word": "dismiss",
+    "hint": "to refuse to consider something seriously"
+  },
+  {
+    "word": "dispel",
+    "hint": "to make a feeling or belief disappear"
+  },
+  {
+    "word": "dispute",
+    "hint": "a disagreement or argument about something"
+  },
+  {
+    "word": "disrupt",
+    "hint": "to interrupt the normal process of something"
+  },
+  {
+    "word": "dissonance",
+    "hint": "a lack of agreement or harmony between things"
+  },
+  {
+    "word": "distort",
+    "hint": "to change something so it is no longer accurate"
+  },
+  {
+    "word": "disturbing",
+    "hint": "making you feel worried or upset"
+  },
+  {
+    "word": "divert",
+    "hint": "to change the direction or purpose of something"
+  },
+  {
+    "word": "dominant",
+    "hint": "most powerful or influential"
+  },
+  {
+    "word": "dominate",
+    "hint": "to have control or power over others"
+  },
+  {
+    "word": "domineering",
+    "hint": "trying to control others in an unpleasant way"
+  },
+  {
+    "word": "downfall",
+    "hint": "a sudden loss of power or success"
+  },
+  {
+    "word": "dramatic",
+    "hint": "exciting and impressive, or relating to theater"
+  },
+  {
+    "word": "drastic",
+    "hint": "likely to have a strong or far-reaching effect"
+  },
+  {
+    "word": "dread",
+    "hint": "a feeling of great fear about something that might happen"
+  },
+  {
+    "word": "dubious",
+    "hint": "feeling uncertain or suspicious about something"
+  },
+  {
+    "word": "duplicity",
+    "hint": "the practice of deceiving people by pretending to be honest"
+  },
+  {
+    "word": "dynamic",
+    "hint": "full of energy and new ideas"
+  },
+  {
+    "word": "dysfunctional",
+    "hint": "not working normally or properly"
+  },
+  {
+    "word": "eccentric",
+    "hint": "unusual and different from most people"
+  },
+  {
+    "word": "effective",
+    "hint": "producing the intended result successfully"
+  },
+  {
+    "word": "elaborate",
+    "hint": "involving many carefully arranged parts or details"
+  },
+  {
+    "word": "eliminate",
+    "hint": "to completely remove or get rid of something"
+  },
+  {
+    "word": "emerge",
+    "hint": "to come out from a hidden or difficult situation"
+  },
+  {
+    "word": "empower",
+    "hint": "to give someone the authority or confidence to do something"
+  },
+  {
+    "word": "encounter",
+    "hint": "to unexpectedly meet or experience something"
+  },
+  {
+    "word": "endure",
+    "hint": "to suffer through something difficult for a long time"
+  },
+  {
+    "word": "enforce",
+    "hint": "to make sure a rule or law is followed"
+  },
+  {
+    "word": "entangle",
+    "hint": "to become involved in a complicated situation"
+  },
+  {
+    "word": "enthrall",
+    "hint": "to hold someone's complete interest and attention"
+  },
+  {
+    "word": "enthralling",
+    "hint": "extremely interesting and keeping your full attention"
+  },
+  {
+    "word": "entice",
+    "hint": "to attract someone by offering something appealing"
+  },
+  {
+    "word": "erratic",
+    "hint": "not regular or consistent in behavior"
+  },
+  {
+    "word": "estrange",
+    "hint": "to cause someone to no longer be close to others"
+  },
+  {
+    "word": "evade",
+    "hint": "to escape from or avoid someone or something"
+  },
+  {
+    "word": "evasive",
+    "hint": "avoiding giving a clear or direct answer"
+  },
+  {
+    "word": "examine",
+    "hint": "to look at something carefully and in detail"
+  },
+  {
+    "word": "excessive",
+    "hint": "more than what is necessary or reasonable"
+  },
+  {
+    "word": "exhaust",
+    "hint": "to use up all of a supply or someone's energy"
+  },
+  {
+    "word": "exonerate",
+    "hint": "to officially declare that someone is not guilty"
+  },
+  {
+    "word": "exploit",
+    "hint": "to use someone or something unfairly for your own benefit"
+  },
+  {
+    "word": "expose",
+    "hint": "to reveal something hidden or secret"
+  },
+  {
+    "word": "extensive",
+    "hint": "covering a large area or amount"
+  },
+  {
+    "word": "extort",
+    "hint": "to get money by using threats"
+  },
+  {
+    "word": "extreme",
+    "hint": "very great in degree or going far beyond normal limits"
+  },
+  {
+    "word": "extremist",
+    "hint": "a person with very strong and unreasonable beliefs"
+  },
+  {
+    "word": "fabricate",
+    "hint": "to invent false information"
+  },
+  {
+    "word": "fabrication",
+    "hint": "something that has been invented and is not true"
+  },
+  {
+    "word": "facade",
+    "hint": "a false appearance that hides the truth"
+  },
+  {
+    "word": "facilitate",
+    "hint": "to make a process easier"
+  },
+  {
+    "word": "falter",
+    "hint": "to lose strength or confidence"
+  },
+  {
+    "word": "fanatic",
+    "hint": "someone who is extremely enthusiastic about something"
+  },
+  {
+    "word": "feign",
+    "hint": "to pretend to feel or have something"
+  },
+  {
+    "word": "ferocious",
+    "hint": "very fierce and violent"
+  },
+  {
+    "word": "fervent",
+    "hint": "having or showing very strong feelings"
+  },
+  {
+    "word": "feud",
+    "hint": "a long and bitter argument between two groups"
+  },
+  {
+    "word": "fierce",
+    "hint": "very strong and violent or intense"
+  },
+  {
+    "word": "fixation",
+    "hint": "an obsessive interest in something"
+  },
+  {
+    "word": "flaw",
+    "hint": "a fault or weakness in something"
+  },
+  {
+    "word": "flawed",
+    "hint": "having faults or weaknesses"
+  },
+  {
+    "word": "fluctuate",
+    "hint": "to change frequently between levels"
+  },
+  {
+    "word": "foil",
+    "hint": "a person who contrasts with and highlights another's qualities"
+  },
+  {
+    "word": "forbid",
+    "hint": "to officially not allow something"
+  },
+  {
+    "word": "forebode",
+    "hint": "to be a sign that something bad will happen"
+  },
+  {
+    "word": "foreboding",
+    "hint": "a feeling that something bad is going to happen"
+  },
+  {
+    "word": "formidable",
+    "hint": "inspiring fear or respect due to great ability"
+  },
+  {
+    "word": "forsake",
+    "hint": "to leave someone or something permanently"
+  },
+  {
+    "word": "forthright",
+    "hint": "direct and confident in speech or behavior"
+  },
+  {
+    "word": "fractious",
+    "hint": "easily irritated and causing trouble"
+  },
+  {
+    "word": "frantic",
+    "hint": "in a hurry and full of anxiety and confusion"
+  },
+  {
+    "word": "frenzied",
+    "hint": "wildly excited or out of control"
+  },
+  {
+    "word": "fringe",
+    "hint": "on the edge of mainstream society or thought"
+  },
+  {
+    "word": "fundamental",
+    "hint": "forming a necessary base or core"
+  },
+  {
+    "word": "furtive",
+    "hint": "behaving in a way that suggests you have something to hide"
+  },
+  {
+    "word": "futile",
+    "hint": "having no purpose because it has no chance of success"
+  },
+  {
+    "word": "glamorize",
+    "hint": "to make something seem more attractive than it really is"
+  },
+  {
+    "word": "glamorous",
+    "hint": "attractive in an exciting and special way"
+  },
+  {
+    "word": "glamour",
+    "hint": "an attractive and exciting quality"
+  },
+  {
+    "word": "grapple",
+    "hint": "to struggle with a difficult problem"
+  },
+  {
+    "word": "gravitas",
+    "hint": "a quality of being serious and commanding respect"
+  },
+  {
+    "word": "grievance",
+    "hint": "a feeling that you have been treated unfairly"
+  },
+  {
+    "word": "grievous",
+    "hint": "very serious and causing great pain"
+  },
+  {
+    "word": "gripping",
+    "hint": "so exciting that it holds your attention completely"
+  },
+  {
+    "word": "grotesque",
+    "hint": "very strange and ugly in a shocking way"
+  },
+  {
+    "word": "grudge",
+    "hint": "a feeling of anger toward someone who hurt you in the past"
+  },
+  {
+    "word": "guise",
+    "hint": "an appearance that hides the true nature of something"
+  },
+  {
+    "word": "haphazard",
+    "hint": "with no particular plan or order"
+  },
+  {
+    "word": "harrowing",
+    "hint": "extremely upsetting or traumatic"
+  },
+  {
+    "word": "harsh",
+    "hint": "severe and unkind"
+  },
+  {
+    "word": "haunted",
+    "hint": "troubled by unpleasant memories or feelings"
+  },
+  {
+    "word": "haunting",
+    "hint": "beautiful or sad in a way that is difficult to forget"
+  },
+  {
+    "word": "heist",
+    "hint": "a robbery planned and carried out in a clever way"
+  },
+  {
+    "word": "hesitate",
+    "hint": "to pause before doing something because of doubt"
+  },
+  {
+    "word": "hollow",
+    "hint": "empty inside, or lacking real value"
+  },
+  {
+    "word": "hostage",
+    "hint": "a person held captive to force others to do something"
+  },
+  {
+    "word": "hostile",
+    "hint": "unfriendly and opposed to something"
+  },
+  {
+    "word": "humiliate",
+    "hint": "to make someone feel ashamed in front of others"
+  },
+  {
+    "word": "hypocrisy",
+    "hint": "claiming to have standards you don't actually follow"
+  },
+  {
+    "word": "hypocrite",
+    "hint": "a person who says one thing and does another"
+  },
+  {
+    "word": "idealize",
+    "hint": "to think of something as perfect when it is not"
+  },
+  {
+    "word": "identity",
+    "hint": "who you are as a person"
+  },
+  {
+    "word": "illicit",
+    "hint": "not allowed by law or considered morally acceptable"
+  },
+  {
+    "word": "illuminate",
+    "hint": "to make something clearer or easier to understand"
+  },
+  {
+    "word": "illusion",
+    "hint": "something that appears to be real but is not"
+  },
+  {
+    "word": "immersive",
+    "hint": "so involving that you feel completely surrounded by it"
+  },
+  {
+    "word": "imminent",
+    "hint": "about to happen very soon"
+  },
+  {
+    "word": "impair",
+    "hint": "to damage or weaken something"
+  },
+  {
+    "word": "imperil",
+    "hint": "to put someone or something in danger"
+  },
+  {
+    "word": "implicate",
+    "hint": "to show that someone is involved in a crime"
+  },
+  {
+    "word": "implicit",
+    "hint": "suggested but not directly stated"
+  },
+  {
+    "word": "implode",
+    "hint": "to collapse inward suddenly"
+  },
+  {
+    "word": "impose",
+    "hint": "to force something on someone without their agreement"
+  },
+  {
+    "word": "impression",
+    "hint": "an idea or opinion formed without full knowledge"
+  },
+  {
+    "word": "impulsive",
+    "hint": "acting quickly without thinking about the results"
+  },
+  {
+    "word": "impunity",
+    "hint": "freedom from punishment or harm"
+  },
+  {
+    "word": "incessant",
+    "hint": "continuing without stopping in an annoying way"
+  },
+  {
+    "word": "incite",
+    "hint": "to encourage someone to do something violent or illegal"
+  },
+  {
+    "word": "inconvenient",
+    "hint": "causing difficulty or problems"
+  },
+  {
+    "word": "incriminate",
+    "hint": "to make someone appear guilty of a crime"
+  },
+  {
+    "word": "indifferent",
+    "hint": "having no interest or concern about something"
+  },
+  {
+    "word": "indulge",
+    "hint": "to allow yourself to enjoy something pleasurable"
+  },
+  {
+    "word": "inescapable",
+    "hint": "impossible to avoid or ignore"
+  },
+  {
+    "word": "inevitable",
+    "hint": "certain to happen and unable to be prevented"
+  },
+  {
+    "word": "infer",
+    "hint": "to form a conclusion from evidence"
+  },
+  {
+    "word": "infiltrate",
+    "hint": "to secretly enter a group or organization"
+  },
+  {
+    "word": "inflict",
+    "hint": "to cause something harmful on someone"
+  },
+  {
+    "word": "infuriate",
+    "hint": "to make someone extremely angry"
+  },
+  {
+    "word": "inherited",
+    "hint": "received from someone who had it before you"
+  },
+  {
+    "word": "inhibit",
+    "hint": "to slow down or prevent something from happening"
+  },
+  {
+    "word": "insidious",
+    "hint": "proceeding harmfully in a subtle and gradual way"
+  },
+  {
+    "word": "insinuate",
+    "hint": "to suggest something bad without saying it directly"
+  },
+  {
+    "word": "insolent",
+    "hint": "rude and disrespectful"
+  },
+  {
+    "word": "instigate",
+    "hint": "to cause something to begin, especially something bad"
+  },
+  {
+    "word": "instinct",
+    "hint": "a natural ability or tendency to behave in a certain way"
+  },
+  {
+    "word": "intimidate",
+    "hint": "to frighten someone so they do what you want"
+  },
+  {
+    "word": "intricate",
+    "hint": "very complex with many small details"
+  },
+  {
+    "word": "intrigue",
+    "hint": "to make someone very interested or curious"
+  },
+  {
+    "word": "intrusive",
+    "hint": "disturbing someone's privacy in an unwanted way"
+  },
+  {
+    "word": "ironic",
+    "hint": "the opposite of what was expected"
+  },
+  {
+    "word": "irrational",
+    "hint": "not logical or reasonable"
+  },
+  {
+    "word": "isolate",
+    "hint": "to separate someone from others"
+  },
+  {
+    "word": "isolation",
+    "hint": "the state of being alone and separated from others"
+  },
+  {
+    "word": "justify",
+    "hint": "to give a good reason for something"
+  },
+  {
+    "word": "lament",
+    "hint": "to feel or express deep sadness or regret"
+  },
+  {
+    "word": "lethal",
+    "hint": "causing or able to cause death"
+  },
+  {
+    "word": "leverage",
+    "hint": "power or advantage used to get a desired result"
+  },
+  {
+    "word": "linger",
+    "hint": "to stay somewhere longer than expected"
+  },
+  {
+    "word": "looming",
+    "hint": "seeming about to happen in a threatening way"
+  },
+  {
+    "word": "lure",
+    "hint": "to attract someone into a situation using something appealing"
+  },
+  {
+    "word": "lurk",
+    "hint": "to wait somewhere secretly and with bad intent"
+  },
+  {
+    "word": "malevolent",
+    "hint": "having a desire to harm others"
+  },
+  {
+    "word": "malicious",
+    "hint": "wanting to harm others on purpose"
+  },
+  {
+    "word": "manipulate",
+    "hint": "to control someone cleverly and unfairly"
+  },
+  {
+    "word": "manipulation",
+    "hint": "controlling someone in a clever and unfair way"
+  },
+  {
+    "word": "manipulative",
+    "hint": "controlling others through clever unfair methods"
+  },
+  {
+    "word": "meddle",
+    "hint": "to get involved in something that is not your concern"
+  },
+  {
+    "word": "mediocre",
+    "hint": "of only average quality, not very good"
+  },
+  {
+    "word": "melancholy",
+    "hint": "a feeling of deep sadness"
+  },
+  {
+    "word": "menace",
+    "hint": "a person or thing that causes danger or harm"
+  },
+  {
+    "word": "menacing",
+    "hint": "suggesting a possible danger or threat"
+  },
+  {
+    "word": "merit",
+    "hint": "the quality of being good and deserving praise"
+  },
+  {
+    "word": "mislead",
+    "hint": "to cause someone to believe something that is not true"
+  },
+  {
+    "word": "momentum",
+    "hint": "the force that keeps something moving forward"
+  },
+  {
+    "word": "moralistic",
+    "hint": "expressing strong opinions about what is right and wrong"
+  },
+  {
+    "word": "motive",
+    "hint": "a reason for doing something"
+  },
+  {
+    "word": "mundane",
+    "hint": "ordinary and not interesting"
+  },
+  {
+    "word": "naive",
+    "hint": "too willing to believe that people are good"
+  },
+  {
+    "word": "narcissist",
+    "hint": "a person who is overly focused on themselves"
+  },
+  {
+    "word": "narrative",
+    "hint": "a spoken or written account of events"
+  },
+  {
+    "word": "nefarious",
+    "hint": "criminal or wicked"
+  },
+  {
+    "word": "negligent",
+    "hint": "failing to give proper care and attention"
+  },
+  {
+    "word": "negotiate",
+    "hint": "to discuss something in order to reach an agreement"
+  },
+  {
+    "word": "nostalgia",
+    "hint": "a feeling of happiness and sadness about the past"
+  },
+  {
+    "word": "notorious",
+    "hint": "famous for something bad"
+  },
+  {
+    "word": "nuance",
+    "hint": "a small difference in meaning or quality"
+  },
+  {
+    "word": "oblivion",
+    "hint": "the state of being completely forgotten"
+  },
+  {
+    "word": "oblivious",
+    "hint": "not aware of what is happening around you"
+  },
+  {
+    "word": "obscure",
+    "hint": "not well known or not clearly expressed"
+  },
+  {
+    "word": "obsess",
+    "hint": "to think about something constantly and uncontrollably"
+  },
+  {
+    "word": "obsession",
+    "hint": "an idea that constantly occupies someone's mind"
+  },
+  {
+    "word": "obsessive",
+    "hint": "thinking about something too much"
+  },
+  {
+    "word": "obstacle",
+    "hint": "something that blocks your path or progress"
+  },
+  {
+    "word": "obstruct",
+    "hint": "to block someone or something from moving forward"
+  },
+  {
+    "word": "ominous",
+    "hint": "suggesting that something bad is going to happen"
+  },
+  {
+    "word": "omit",
+    "hint": "to leave something out"
+  },
+  {
+    "word": "opaque",
+    "hint": "difficult to understand or explain"
+  },
+  {
+    "word": "oppress",
+    "hint": "to treat people in a cruel and unfair way"
+  },
+  {
+    "word": "orchestrate",
+    "hint": "to plan and organize a complex event"
+  },
+  {
+    "word": "outrage",
+    "hint": "a strong feeling of anger caused by something unfair"
+  },
+  {
+    "word": "overcome",
+    "hint": "to succeed in dealing with a problem"
+  },
+  {
+    "word": "overwhelm",
+    "hint": "to affect someone so strongly they cannot cope"
+  },
+  {
+    "word": "paradox",
+    "hint": "a situation that seems impossible but is actually true"
+  },
+  {
+    "word": "paradoxical",
+    "hint": "seeming impossible or contradictory but actually true"
+  },
+  {
+    "word": "paranoia",
+    "hint": "an irrational fear that others are trying to harm you"
+  },
+  {
+    "word": "paranoid",
+    "hint": "irrationally suspicious or mistrustful of others"
+  },
+  {
+    "word": "perceptive",
+    "hint": "having a good understanding of things that others miss"
+  },
+  {
+    "word": "perplex",
+    "hint": "to make someone feel completely confused"
+  },
+  {
+    "word": "persecution",
+    "hint": "cruel and unfair treatment of a person or group"
+  },
+  {
+    "word": "persevere",
+    "hint": "to continue doing something despite difficulty"
+  },
+  {
+    "word": "pertinent",
+    "hint": "relevant to what is being discussed"
+  },
+  {
+    "word": "pervasive",
+    "hint": "spreading through and affecting every part of something"
+  },
+  {
+    "word": "pivotal",
+    "hint": "of central importance to a situation or event"
+  },
+  {
+    "word": "plausible",
+    "hint": "seeming reasonable and likely to be true"
+  },
+  {
+    "word": "plunge",
+    "hint": "to fall or move suddenly downward"
+  },
+  {
+    "word": "polarize",
+    "hint": "to divide into two completely opposite groups"
+  },
+  {
+    "word": "polarizing",
+    "hint": "causing people to have very different strong opinions"
+  },
+  {
+    "word": "portray",
+    "hint": "to describe or show something in a particular way"
+  },
+  {
+    "word": "potent",
+    "hint": "having great power or effect"
+  },
+  {
+    "word": "precarious",
+    "hint": "not safe or secure and likely to fail"
+  },
+  {
+    "word": "predict",
+    "hint": "to say what will happen before it does"
+  },
+  {
+    "word": "pretend",
+    "hint": "to behave as if something is true when it is not"
+  },
+  {
+    "word": "prevalent",
+    "hint": "widespread and commonly found"
+  },
+  {
+    "word": "profound",
+    "hint": "very great or intense"
+  },
+  {
+    "word": "prolong",
+    "hint": "to make something last longer"
+  },
+  {
+    "word": "prosper",
+    "hint": "to be successful, especially financially"
+  },
+  {
+    "word": "protagonist",
+    "hint": "the main character in a story"
+  },
+  {
+    "word": "provocation",
+    "hint": "an action designed to make someone angry"
+  },
+  {
+    "word": "provocative",
+    "hint": "intended to make people react with strong emotion"
+  },
+  {
+    "word": "provoke",
+    "hint": "to make someone react with strong emotion"
+  },
+  {
+    "word": "rampant",
+    "hint": "spreading in an uncontrolled way"
+  },
+  {
+    "word": "rational",
+    "hint": "based on reason rather than emotion"
+  },
+  {
+    "word": "realization",
+    "hint": "the moment you become aware of something"
+  },
+  {
+    "word": "rebel",
+    "hint": "to resist authority or control"
+  },
+  {
+    "word": "reckless",
+    "hint": "not caring about danger or risk"
+  },
+  {
+    "word": "recklessness",
+    "hint": "behavior that does not care about danger"
+  },
+  {
+    "word": "redemption",
+    "hint": "the act of making up for past mistakes"
+  },
+  {
+    "word": "redemptive",
+    "hint": "making up for past mistakes or bad behavior"
+  },
+  {
+    "word": "relapse",
+    "hint": "a return to a bad condition after improvement"
+  },
+  {
+    "word": "relentless",
+    "hint": "never stopping or giving up"
+  },
+  {
+    "word": "remorse",
+    "hint": "a feeling of deep regret for doing something wrong"
+  },
+  {
+    "word": "repress",
+    "hint": "to control feelings so they do not come out"
+  },
+  {
+    "word": "repressed",
+    "hint": "having feelings that are suppressed and not expressed"
+  },
+  {
+    "word": "resent",
+    "hint": "to feel angry about being treated unfairly"
+  },
+  {
+    "word": "resilience",
+    "hint": "the ability to recover quickly from difficulties"
+  },
+  {
+    "word": "resilient",
+    "hint": "able to recover quickly from difficult situations"
+  },
+  {
+    "word": "retaliate",
+    "hint": "to do something harmful in return for harm done to you"
+  },
+  {
+    "word": "revelation",
+    "hint": "a surprising and previously unknown fact"
+  },
+  {
+    "word": "righteous",
+    "hint": "morally right and just"
+  },
+  {
+    "word": "rigid",
+    "hint": "not able to change or be changed"
+  },
+  {
+    "word": "rupture",
+    "hint": "to break or burst suddenly"
+  },
+  {
+    "word": "ruthless",
+    "hint": "showing no mercy and willing to hurt others to succeed"
+  },
+  {
+    "word": "ruthlessness",
+    "hint": "the quality of not caring about hurting others"
+  },
+  {
+    "word": "sabotage",
+    "hint": "to deliberately damage or destroy something"
+  },
+  {
+    "word": "sacrifice",
+    "hint": "giving up something valuable for a greater purpose"
+  },
+  {
+    "word": "savage",
+    "hint": "violent and cruel, or extremely harsh"
+  },
+  {
+    "word": "scandal",
+    "hint": "an action that causes public outrage or shame"
+  },
+  {
+    "word": "scheme",
+    "hint": "a secret plan to get something"
+  },
+  {
+    "word": "scrutinize",
+    "hint": "to examine something very carefully"
+  },
+  {
+    "word": "scrutiny",
+    "hint": "careful and detailed examination"
+  },
+  {
+    "word": "seduction",
+    "hint": "the act of attracting and tempting someone"
+  },
+  {
+    "word": "seductive",
+    "hint": "attractive in a way that is hard to resist"
+  },
+  {
+    "word": "sever",
+    "hint": "to cut off or end a connection completely"
+  },
+  {
+    "word": "shallow",
+    "hint": "not having deep or serious thought"
+  },
+  {
+    "word": "shatter",
+    "hint": "to break suddenly into many pieces"
+  },
+  {
+    "word": "shrewd",
+    "hint": "having good judgment and able to understand situations well"
+  },
+  {
+    "word": "sincerity",
+    "hint": "being honest and meaning what you say"
+  },
+  {
+    "word": "sinister",
+    "hint": "suggesting something evil or harmful"
+  },
+  {
+    "word": "skewed",
+    "hint": "not accurate because of a particular influence"
+  },
+  {
+    "word": "slander",
+    "hint": "making false spoken statements to damage someone's reputation"
+  },
+  {
+    "word": "smolder",
+    "hint": "to burn slowly without flames, or feel strong hidden emotion"
+  },
+  {
+    "word": "smoldering",
+    "hint": "showing strong hidden feelings that are not expressed"
+  },
+  {
+    "word": "sordid",
+    "hint": "involving immoral or dishonest behavior"
+  },
+  {
+    "word": "speculate",
+    "hint": "to form opinions without full knowledge"
+  },
+  {
+    "word": "spiteful",
+    "hint": "wanting to hurt or upset someone"
+  },
+  {
+    "word": "squander",
+    "hint": "to waste money, time, or opportunity"
+  },
+  {
+    "word": "stagnant",
+    "hint": "not moving or changing, often in a bad way"
+  },
+  {
+    "word": "standoff",
+    "hint": "a situation where neither side can win"
+  },
+  {
+    "word": "stellar",
+    "hint": "relating to stars, or exceptionally good"
+  },
+  {
+    "word": "stifle",
+    "hint": "to prevent something from happening or developing"
+  },
+  {
+    "word": "stigma",
+    "hint": "a strong feeling of disapproval about something"
+  },
+  {
+    "word": "stoic",
+    "hint": "enduring pain without showing feelings"
+  },
+  {
+    "word": "strategic",
+    "hint": "done as part of a careful plan to achieve a goal"
+  },
+  {
+    "word": "subdue",
+    "hint": "to bring under control using force"
+  },
+  {
+    "word": "subtext",
+    "hint": "the hidden meaning under the surface of what is said"
+  },
+  {
+    "word": "subtle",
+    "hint": "not obvious and requiring careful attention to notice"
+  },
+  {
+    "word": "subversive",
+    "hint": "trying to undermine an established system"
+  },
+  {
+    "word": "succumb",
+    "hint": "to give in to pressure or a stronger force"
+  },
+  {
+    "word": "suffocate",
+    "hint": "to die or cause to die from lack of air"
+  },
+  {
+    "word": "superficial",
+    "hint": "dealing only with the surface and not the deeper truth"
+  },
+  {
+    "word": "suppress",
+    "hint": "to stop something from being expressed or known"
+  },
+  {
+    "word": "surpass",
+    "hint": "to be better than something or someone else"
+  },
+  {
+    "word": "susceptible",
+    "hint": "likely to be influenced or affected by something"
+  },
+  {
+    "word": "sustain",
+    "hint": "to keep something going over a period of time"
+  },
+  {
+    "word": "sympathize",
+    "hint": "to feel sorry for someone and understand their feelings"
+  },
+  {
+    "word": "systematic",
+    "hint": "done according to a fixed plan or system"
+  },
+  {
+    "word": "tactful",
+    "hint": "careful not to say something that will upset someone"
+  },
+  {
+    "word": "taunt",
+    "hint": "to say cruel things to someone to make them feel bad"
+  },
+  {
+    "word": "tenacious",
+    "hint": "determined and not giving up easily"
+  },
+  {
+    "word": "tenacity",
+    "hint": "the quality of keeping going despite difficulty"
+  },
+  {
+    "word": "tense",
+    "hint": "feeling nervous and unable to relax"
+  },
+  {
+    "word": "terrify",
+    "hint": "to make someone extremely afraid"
+  },
+  {
+    "word": "threaten",
+    "hint": "to say you will harm someone if they don't do what you want"
+  },
+  {
+    "word": "torment",
+    "hint": "to cause great suffering to someone"
+  },
+  {
+    "word": "toxic",
+    "hint": "harmful or unpleasant in a way that damages relationships"
+  },
+  {
+    "word": "tragic",
+    "hint": "causing great sadness and suffering"
+  },
+  {
+    "word": "transcend",
+    "hint": "to go beyond the usual limits"
+  },
+  {
+    "word": "treacherous",
+    "hint": "dangerous and not able to be trusted"
+  },
+  {
+    "word": "tremble",
+    "hint": "to shake because of fear or cold"
+  },
+  {
+    "word": "trespass",
+    "hint": "to enter someone's property without permission"
+  },
+  {
+    "word": "tyranny",
+    "hint": "cruel and unfair use of power over others"
+  },
+  {
+    "word": "ulterior",
+    "hint": "hidden and not openly stated"
+  },
+  {
+    "word": "underestimate",
+    "hint": "to think something is less important than it really is"
+  },
+  {
+    "word": "undermine",
+    "hint": "to weaken or damage something gradually"
+  },
+  {
+    "word": "uneasy",
+    "hint": "feeling slightly worried or uncomfortable"
+  },
+  {
+    "word": "unethical",
+    "hint": "not following accepted rules of right behavior"
+  },
+  {
+    "word": "unforeseen",
+    "hint": "not expected or predicted"
+  },
+  {
+    "word": "unjust",
+    "hint": "not fair or reasonable"
+  },
+  {
+    "word": "unprecedented",
+    "hint": "never having happened before"
+  },
+  {
+    "word": "unravel",
+    "hint": "to become undone, or to slowly discover the truth"
+  },
+  {
+    "word": "unresolved",
+    "hint": "not yet having a solution or conclusion"
+  },
+  {
+    "word": "unscrupulous",
+    "hint": "willing to behave dishonestly to get what you want"
+  },
+  {
+    "word": "unstable",
+    "hint": "likely to change or fail"
+  },
+  {
+    "word": "unwavering",
+    "hint": "not changing or becoming weaker"
+  },
+  {
+    "word": "usurp",
+    "hint": "to take power or position without the right to do so"
+  },
+  {
+    "word": "vague",
+    "hint": "not clearly expressed or easy to understand"
+  },
+  {
+    "word": "validate",
+    "hint": "to officially confirm that something is acceptable"
+  },
+  {
+    "word": "vanish",
+    "hint": "to disappear suddenly and completely"
+  },
+  {
+    "word": "vengeance",
+    "hint": "punishment given to someone who has harmed you"
+  },
+  {
+    "word": "verify",
+    "hint": "to check that something is true or accurate"
+  },
+  {
+    "word": "vicious",
+    "hint": "violent and cruel"
+  },
+  {
+    "word": "vigilant",
+    "hint": "carefully watching for danger or problems"
+  },
+  {
+    "word": "vilify",
+    "hint": "to say very bad things about someone publicly"
+  },
+  {
+    "word": "vindicate",
+    "hint": "to prove that someone was right"
+  },
+  {
+    "word": "vindictive",
+    "hint": "wanting to hurt someone who has hurt you"
+  },
+  {
+    "word": "visceral",
+    "hint": "based on strong feelings rather than careful thought"
+  },
+  {
+    "word": "volatile",
+    "hint": "likely to change suddenly and unexpectedly"
+  },
+  {
+    "word": "volatility",
+    "hint": "the tendency to change quickly and unpredictably"
+  },
+  {
+    "word": "vulnerability",
+    "hint": "the quality of being easily hurt or influenced"
+  },
+  {
+    "word": "vulnerable",
+    "hint": "able to be hurt or attacked easily"
+  },
+  {
+    "word": "wary",
+    "hint": "careful because you do not fully trust something"
+  },
+  {
+    "word": "waver",
+    "hint": "to become uncertain or unsteady"
+  },
+  {
+    "word": "withhold",
+    "hint": "to refuse to give something to someone"
+  },
+  {
+    "word": "withstand",
+    "hint": "to resist damage from something"
+  },
+  {
+    "word": "zealous",
+    "hint": "having very strong feelings about a cause"
+  }
+]
